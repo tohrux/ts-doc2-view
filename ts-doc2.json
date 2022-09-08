@@ -1,0 +1,4 @@
+{
+    "tsConfigFilePath":"./tsconfig.json",
+    "outFilePath":"./meta.ts"
+}
